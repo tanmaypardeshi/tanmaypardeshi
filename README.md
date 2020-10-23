@@ -18,9 +18,11 @@
 
 <hr>
 
-## **A short intro about me:** 
+**A short intro about me:** 
 
 <img align="right" alt="GIF" src="https://github.com/tanmaypardeshi/tanmaypardeshi/blob/main/code.gif?raw=true" width="500" height="320" />
+
+<br><br>
 
 <p align="left">
     I am Full Stack Web Developer from India currently pursuing my Bachelor's degree in Information technology from Pune Insitute of Computer Technology.
