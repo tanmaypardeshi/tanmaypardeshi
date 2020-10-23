@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**tanmaypardeshi/tanmaypardeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/tanmaypardeshi/tanmaypardeshi/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+<details>
+<summary>📈 My GitHub Stats</summary>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=gotham" alt="tanmaypardeshi" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+
+
