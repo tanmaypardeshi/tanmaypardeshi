@@ -29,4 +29,3 @@ and rugby.
 <br/>
 <img src="https://img.icons8.com/color/80/000000/django.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/65/000000/nginx.png"/> <img src="https://img.icons8.com/ios/70/000000/mysql-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/>&nbsp;<img src="https://img.icons8.com/color/65/000000/markdown.png"/>
 </p>
-<p><b>Thank you for visiting my profile!</b> My inbox is always open to any opportunities, suggestions, and advice.</p> 
