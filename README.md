@@ -14,7 +14,6 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Commits Badge](https://badges.pufler.dev/commits/monthly/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
-</div>
 
 <hr>
 <br>
@@ -28,4 +27,6 @@
     My other interests include gaming, listening to music and playing football
     and rugby. 
 </p>
-  
+
+![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=radical)
