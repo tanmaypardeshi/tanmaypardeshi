@@ -10,7 +10,8 @@
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers) [![Years Badge](https://badges.pufler.dev/years/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)  [![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Commits Badge](https://badges.pufler.dev/commits/monthly/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
+[![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers)
+[![Years Badge](https://badges.pufler.dev/years/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Commits Badge](https://badges.pufler.dev/commits/monthly/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
 </div>
 
 <hr>
