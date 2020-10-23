@@ -18,7 +18,7 @@
 
 <hr>
 
-**A short intro about me:** 
+<h3> A short intro about me:</h3>
 
 <img align="right" alt="GIF" src="https://github.com/tanmaypardeshi/tanmaypardeshi/blob/main/code.gif?raw=true" width="500" height="320" />
 
