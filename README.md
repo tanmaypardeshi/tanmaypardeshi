@@ -2,6 +2,11 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Tanmay Pardeshi 
 </h1>
 
+I am Full Stack Web Developer from India currently pursuing my Bachelor's degree in Information technology from Pune Insitute of Computer Technology.
+I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of cloud computing and DevOps.
+My other interests include gaming, listening to music and playing football
+and rugby. 
+
 <hr>
 
 <div align="center">
@@ -16,13 +21,5 @@
 
  <hr>
 
-<h2 align="left">Introduction about me</h2>
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="gif" src="./code.gif">
-
-I am Full Stack Web Developer from India currently pursuing my Bachelor's degree in Information technology from Pune Insitute of Computer Technology.
-I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of cloud computing and DevOps.
-My other interests include gaming, listening to music and playing football
-and rugby. 
 
 
