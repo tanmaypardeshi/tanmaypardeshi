@@ -17,6 +17,7 @@
 
 <hr>
 <br>
+<br>
 <h3 align="left"> A short intro about me:</h3>
 
 <img align="right" alt="GIF" src="https://github.com/tanmaypardeshi/tanmaypardeshi/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -28,8 +29,9 @@
     and rugby. 
 </p>
 
-<div align="center">
+<hr>
 
+<div align="center">
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=radical&layout=compact)
