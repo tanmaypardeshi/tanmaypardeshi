@@ -11,8 +11,12 @@
 
 <hr>
 
-**Introduction about me**
+![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=radical&layout=compact)
 
+ <hr>
+
+<h2 align="left">Introduction about me</h2>
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="gif" src="./code.gif">
 
@@ -22,7 +26,3 @@ My other interests include gaming, listening to music and playing football
 and rugby. 
 
 
-![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=radical&layout=compact)
-
- 
