@@ -16,24 +16,23 @@
 [![Years Badge](https://badges.pufler.dev/years/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) [![Commits Badge](https://badges.pufler.dev/commits/monthly/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
 
 <hr>
-<br>
-<br>
-<h3 align="left"> A short intro about me:</h3>
 
-<img align="right" alt="GIF" src="https://github.com/tanmaypardeshi/tanmaypardeshi/blob/main/code.gif?raw=true" width="500" height="320" />
+**Introduction about me**
 
-<p align="left">
-    I am Full Stack Web Developer from India currently pursuing my Bachelor's degree in Information technology from Pune Insitute of Computer Technology.
-    I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of cloud computing and DevOps.
-    My other interests include gaming, listening to music and playing football
-    and rugby. 
-</p>
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="gif" src="./code.gif" />
+
+I am Full Stack Web Developer from India currently pursuing my Bachelor's degree in Information technology from Pune Insitute of Computer Technology.
+I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of cloud computing and DevOps.
+My other interests include gaming, listening to music and playing football
+and rugby. 
 
 <hr>
 
-<div align="center">
+<p align = "center">
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=radical&layout=compact)
 
-</div>
+</p>
+ 
