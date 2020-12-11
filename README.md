@@ -27,7 +27,7 @@ and rugby.
 <br>
 <img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/>
 <br/>
-<img src="https://img.icons8.com/color/80/000000/django.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/80/000000/nodejs.png"/> <img src="https://img.icons8.com/ios/70/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/80/000000/django.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/80/000000/nodejs.png"/> <img src="https://img.icons8.com/ios/80/000000/mysql-logo.png"/>
 <br>
 <img src="https://img.icons8.com/color/65/000000/nginx.png"/> <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/>&nbsp;<img src="https://img.icons8.com/color/65/000000/markdown.png"/>
 </p>
