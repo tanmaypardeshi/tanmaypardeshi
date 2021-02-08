@@ -20,7 +20,7 @@ and rugby.
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=dracula&layout=compact)
 
  <hr>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/3c687caa-0e67-4b7e-b46a-5c8f0dddd37f.png" /></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/3c687caa-0e67-4b7e-b46a-5c8f0dddd37f.png" width="200px"/></a>
  <hr>
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/ea56dd04-1344-4cc8-bbbc-a25fa5861a95.png" /></a>
  <hr>
