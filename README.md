@@ -20,6 +20,10 @@ and rugby.
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=dracula&layout=compact)
 
  <hr>
+ 
+ <figure><embed src="https://wakatime.com/share/@tanmaypardeshi/257afbd0-710a-45c0-9aaf-e6f453a20ce1.svg"></embed></figure>
+ 
+ <hr>
 
 <h3 align="center">Technologies have worked with</h3>
 <p align="center">
