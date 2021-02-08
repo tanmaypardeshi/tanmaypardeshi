@@ -22,6 +22,8 @@ and rugby.
  <hr>
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/3c687caa-0e67-4b7e-b46a-5c8f0dddd37f.png" /></a>
  <hr>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/ea56dd04-1344-4cc8-bbbc-a25fa5861a95.png" /></a>
+ <hr>
 
 <h3 align="center">Technologies have worked with</h3>
 <p align="center">
