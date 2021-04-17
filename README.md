@@ -51,4 +51,5 @@ and rugby.
 <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=jquery&logoColor=%2361DAFB" />
 <br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <hr>
