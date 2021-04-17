@@ -21,6 +21,7 @@ and rugby.
 [![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
 <br>
 <img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%230078D6.svg?&color=green?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071C5.svg?&color=green?&style=for-the-badge&logo=intel&logoColor=white" />
 <hr>
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
