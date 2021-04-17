@@ -24,7 +24,7 @@ and rugby.
 <hr>
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=dracula&layout=compact&langs_count=9)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=dracula&layout=compact&langs_count=8)
 
 <h3 align="center">Technologies have worked with</h3>
 <p align="center">
