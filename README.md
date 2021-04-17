@@ -20,7 +20,7 @@ and rugby.
 [![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) 
 [![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
 <br>
-<img src=https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 <hr>
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
