@@ -36,15 +36,15 @@ and rugby.
 <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Javascript%20-%2314354C.svg?&style=for-the-badge&logo=javscript&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript%20-%2314354C.svg?&style=for-the-badge&logo=javsacript&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Django%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask%20-%2343853D.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-the-badge&logo=express&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
