@@ -29,14 +29,8 @@ and rugby.
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=dracula&layout=compact&langs_count=8)
 
-<h3 align="center">Technologies have worked with</h3>
+<h3 align="center">Technologies that I have worked with</h3>
 <p align="center">
-<img src="https://img.icons8.com/color/65/000000/c-programming.png"/> <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/65/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/65/000000/python.png"/> <img src="https://img.icons8.com/color/65/000000/javascript.png"/> <img src="https://img.icons8.com/ios-filled/65/000000/console.png"/>
-<br>
-<img src="https://img.icons8.com/color/65/000000/html-5.png"/> <img src="https://img.icons8.com/color/65/000000/css3.png"/> <img src="https://img.icons8.com/color/65/000000/bootstrap.png"/>  <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/> &nbsp;<img src="https://img.icons8.com/ultraviolet/55/000000/react.png"/> 
-<br/>
-<img src="https://img.icons8.com/color/80/000000/django.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./flask.png" height="60px" width="60px"> <img src="https://img.icons8.com/color/80/000000/nodejs.png"/>&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/ios/80/000000/mysql-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/70/000000/mongodb.png"/>
-<br>
-<img src="https://img.icons8.com/color/65/000000/nginx.png"/> <img src="./gunicorn.png" height="60px" width="80px"> <img src="https://img.icons8.com/color/65/000000/git.png"/><img src="https://img.icons8.com/windows/65/000000/github.png"/>&nbsp;<img src="https://img.icons8.com/color/65/000000/markdown.png"/>
+
 </p>
 <hr>
