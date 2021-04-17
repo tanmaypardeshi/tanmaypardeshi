@@ -16,10 +16,12 @@ and rugby.
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanmaypardeshi@gmail.com) 
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/tanmaypardeshi) 
 <br>
+<br>
 [![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?color=green?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers)
 [![Years Badge](https://badges.pufler.dev/years/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) 
 [![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) 
 [![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
+<br>
 <br>
 <img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%230078D6.svg?&color=green?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071C5.svg?&color=green?&style=for-the-badge&logo=intel&logoColor=white" />
