@@ -49,7 +49,13 @@ and rugby.
 <img src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/JQuery%20-%2320232a.svg?&style=for-the-badge&logo=jquery&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Bootstrap%20-%2320232a.svg?&style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Material UI%20-%2320232a.svg?&style=for-the-badge&logo=material-ui&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Ant Design%20-%2320232a.svg?&style=for-the-badge&logo=ant-design&logoColor=%2361DAFB" />
 <br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-%234ea94b.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-%234ea94b.svg?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-%234ea94b.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-%234ea94b.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 <hr>
