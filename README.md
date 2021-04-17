@@ -19,11 +19,6 @@ and rugby.
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=dracula&layout=compact)
 
- <hr>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/3c687caa-0e67-4b7e-b46a-5c8f0dddd37f.png" width="500px" height="400px"/></a>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tanmaypardeshi/ea56dd04-1344-4cc8-bbbc-a25fa5861a95.png" width="500px" height="400px"/></a>
- <hr>
-
 <h3 align="center">Technologies have worked with</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/65/000000/c-programming.png"/> <img src="https://img.icons8.com/color/65/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/65/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/65/000000/python.png"/> <img src="https://img.icons8.com/color/65/000000/javascript.png"/> <img src="https://img.icons8.com/ios-filled/65/000000/console.png"/>
