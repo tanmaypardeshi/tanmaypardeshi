@@ -53,7 +53,7 @@ and rugby.
 <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Ant Design%20-%2320232a.svg?&style=for-the-badge&logo=ant-design&logoColor=%2361DAFB" />
 <br>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
