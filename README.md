@@ -40,10 +40,10 @@ and rugby.
 <img src="https://img.shields.io/badge/shell_script%20-%23F05033.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/Django%20-%2343853D.svg?&style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/django%20-%23092e20.svg?&style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask%20-%2343853D.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge" />
 <br>
 <img src="https://img.shields.io/badge/HTML5%20-%2320232a.svg?&style=for-the-badge&logo=html5&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%2361DAFB" />
