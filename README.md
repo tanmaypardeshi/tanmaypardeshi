@@ -23,8 +23,8 @@ and rugby.
 [![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
 <br>
 <br>
-<img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%230078D6.svg?&color=red?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071C5.svg?&color=blue?&style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%23bc0024.svg?&color=red?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071c5.svg?&color=blue?&style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/nvidia-gtx1050ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 <hr>
 
