@@ -11,7 +11,6 @@ and rugby.
 
 <div align="center">
 
-[<img src = "https://img.shields.io/badge/Resume%20-%23000.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white">](https://drive.google.com/file/d/1tG71p-LDzplEKvdLFeMZzSBCSfnT_b28/view?usp=sharing)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmaypardeshi) 
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanmaypardeshi@gmail.com) 
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-%23fca326?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/tanmaypardeshi) 
