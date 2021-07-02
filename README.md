@@ -47,8 +47,6 @@ and rugby.
 <img src="https://img.shields.io/badge/flask%20-%23121011.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge&logo=express&logoColor=white" />
-<br>
-<br>
 <img src="https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -70,6 +68,8 @@ and rugby.
 <img src="https://img.shields.io/badge/GitLab-%23fca326.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/azure%20-%231572B6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 <hr>
