@@ -2,11 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Tanmay Pardeshi 
 </h1>
 
-I am Full Stack Web Developer from India currently pursuing my Bachelor's degree in Information technology from Pune Insitute of Computer Technology.
-I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of cloud computing and DevOps.
-My other interests include gaming, listening to music and playing football
-and rugby.
-
+I am currently pursuing my Bachelor's in Engineering in Information Technology from Pune Institute of Computer Technology. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. I am also exploring the areas of Machine Learning and Deep learning currently. 
 <hr>
 
 <div align="center">
