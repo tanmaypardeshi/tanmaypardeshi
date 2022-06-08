@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I am Tanmay Pardeshi 
+    Hey there, I am Tanmay Pardeshi 
 </h1>
 
 I am currently pursuing my Bachelor's in Engineering in Information Technology from Pune Institute of Computer Technology. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. I am also exploring the areas of Machine Learning and Deep learning currently. 
