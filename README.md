@@ -12,12 +12,10 @@ I am currently pursuing my Bachelor's in Engineering in Information Technology f
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-%23fca326?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/tanmaypardeshi) 
 <br>
 <br>
-[![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?color=green?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers)
-<br>
-<br>
 <img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%23bc0024.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071c5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 <img src="https://img.shields.io/badge/nvidia-gtx1050ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+[![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?color=green?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers)
 <hr>
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
