@@ -13,9 +13,6 @@ I am currently pursuing my Bachelor's in Engineering in Information Technology f
 <br>
 <br>
 [![GitHub followers](https://img.shields.io/github/followers/tanmaypardeshi?color=green?label=Followers&style=for-the-badge)](https://github.com/tanmaypardeshi?tab=followers)
-[![Years Badge](https://badges.pufler.dev/years/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) 
-[![Repos Badge](https://badges.pufler.dev/repos/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi) 
-[![Visits Badge](https://badges.pufler.dev/visits/tanmaypardeshi/tanmaypardeshi?style=for-the-badge)](https://github.com/tanmaypardeshi)
 <br>
 <br>
 <img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%23bc0024.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
