@@ -2,12 +2,14 @@
    👋 Hey there, I am Tanmay Pardeshi 
 </h1>
 
-<img src="./Laptop.gif" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;">
+<p align="center">
+  <img src="./Laptop.gif" height=300 width=400>
+</p>
+
+<hr>
 
 I have a Bacherlor's Degree in IT Engineering and I am currently a Software Engineer at Avaya. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. 
+
 <hr>
 
 <div align="center">
