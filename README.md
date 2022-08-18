@@ -2,6 +2,8 @@
    👋 Hey there, I am Tanmay Pardeshi 
 </h1>
 
+<img src="https://github.com/tanmaypardeshi/tanmaypardeshi/blob/main/Laptop.gif">
+
 I have a Bacherlor's Degree in IT Engineering and I am currently a Software Engineer at Avaya. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. 
 <hr>
 
