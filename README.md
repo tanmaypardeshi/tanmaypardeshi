@@ -1,8 +1,8 @@
 <h1 align="center">
-    Hey there, I am Tanmay Pardeshi 
+   👋 Hey there, I am Tanmay Pardeshi 
 </h1>
 
-I am currently pursuing my Bachelor's in Engineering in Information Technology from Pune Institute of Computer Technology. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. I am also exploring the areas of Machine Learning and Deep learning currently. 
+I have a Bacherlor's Degree in IT Engineering and I am currently a Software Engineer at Avaya. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. 
 <hr>
 
 <div align="center">
@@ -41,6 +41,7 @@ I am currently pursuing my Bachelor's in Engineering in Information Technology f
 <img src="https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 
 <br>
 <br>
