@@ -8,6 +8,7 @@ I have a Bacherlor's Degree in IT Engineering and I am currently a Software Engi
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmaypardeshi) 
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/tanmay_pardeshi)
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanmaypardeshi@gmail.com) 
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-%23fca326?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/tanmaypardeshi) 
 <br>
