@@ -47,7 +47,7 @@ I have profound interest in  Computers and Computer Engineering. My core domains
 <img src="https://img.shields.io/badge/flask%20-%23121011.svg?&style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/express.js%20-%2343853D.svg?&style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300758f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234DB33D.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
