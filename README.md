@@ -8,7 +8,9 @@
 
 <hr>
 
-I have a Bacherlor's Degree in IT Engineering and I am currently a Software Engineer at Avaya. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. 
+I am currently working as Software Engineer at Avaya, Pune. I have graduated from Pune Institute of Computer Technology in 2022 and I have an undergraduate degree in Information Technology.
+
+I have profound interest in  Computers and Computer Engineering. My core domains involve Software and Web Development, Cloud Computing, Devops. I am passionate about engineering robust, efficient and scalable solutions to real world problems using technology.
 
 <hr>
 
