@@ -69,7 +69,6 @@ I have profound interest in  Computers and Computer Engineering. My core domains
 <br>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-%23fca326.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />
 <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/azure%20-%231572B6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
