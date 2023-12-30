@@ -19,9 +19,8 @@ I have profound interest in  Computers and Computer Engineering. My core domains
 <div align="center">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmaypardeshi) 
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/tanmay_pardeshi)
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanmaypardeshi@gmail.com) 
-[<img src="https://img.shields.io/badge/-tanmaypardeshi-%23fca326?style=for-the-badge&logo=GitLab&logoColor=white"/>](https://gitlab.com/tanmaypardeshi) 
+[<img src="https://img.shields.io/badge/-tanmaypardeshi-%23fca326?style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/tanmaypardeshi) 
 <br>
 <br>
 <img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%23bc0024.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
