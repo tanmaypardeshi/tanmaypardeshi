@@ -12,7 +12,7 @@ I am currently pursuing a Master's degree in Computer Science at the North Carol
 
 I have worked as a Software Developer at Avaya, Pune. I have graduated from Pune Institute of Computer Technology in 2022 and I have an undergraduate degree in Information Technology.
 
-I have profound interest in  Computers and Computer Engineering. My core domains involve Software and Web Development, Cloud Computing, Devops. I am passionate about engineering robust, efficient and scalable solutions to real world problems using technology.
+I have profound interest in  Computers and Computer Engineering. My core domains involve Software and Web Development, Cloud Computing and Devops. I am passionate about engineering robust, efficient and scalable solutions to real world problems using technology.
 
 <hr>
 
