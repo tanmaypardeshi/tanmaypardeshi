@@ -8,11 +8,11 @@
 
 <hr>
 
-I am currently pursuing a Master's degree in Computer Science at the North Carolina State University where I am undertaking courses such as Operating System Principles, Computer Networks and Cloud Computing. 
+I am currently pursuing a Master's degree in Computer Science at the North Carolina State University where I am undertaking courses such as Operating System Principles, Software Security and Cloud Computing Architecture. 
 
 I have worked as a Software Developer at Avaya for a year and I have graduated from University of Pune with an undergraduate degree in Information Technology.
 
-I have profound interest in  Computers and Computer Engineering. My core domains involve Software and Web Development, Cloud Computing and Devops. I am passionate about engineering robust, efficient and scalable solutions to real world problems using technology.
+I have profound interest in  Computers and Computer Science. My core domains involve Software and Web Development, Cloud Computing and Security. I am passionate about engineering robust, efficient and scalable solutions to real world problems using technology.
 
 <hr>
 
