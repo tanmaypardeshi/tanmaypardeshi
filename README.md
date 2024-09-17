@@ -22,9 +22,6 @@ I have profound interest in  Computers and Computer Science. My core domains inv
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmaypardeshi) 
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-1C2128?style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/tanmaypardeshi) 
 <br>
-<br>
-<img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%23bc0024.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071c5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 <hr>
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&line_height=24)
