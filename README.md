@@ -25,7 +25,6 @@ I have profound interest in  Computers and Computer Science. My core domains inv
 <br>
 <img src="https://img.shields.io/badge/ubuntu%2020-acer%20predator%20helios%20300-%23bc0024.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/intel-core%20i5%208300H-%230071c5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-<img src="https://img.shields.io/badge/nvidia-gtx1050ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 <hr>
 
 ![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&line_height=24)
