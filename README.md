@@ -8,11 +8,15 @@
 
 <hr>
 
-I am currently pursuing a Master's degree in Computer Science at the North Carolina State University where I am undertaking courses such as Operating System Principles, Software Security and Cloud Computing Architecture. 
+I am an incoming PhD student in the Computer Science department at North Carolina State University, pursuing a specialization in security. I am currently pursuing my Master’s in Computer Science at North Carolina State University and I will be graduating in May 2025. 
 
-I have worked as a Software Developer at Avaya for a year and I have graduated from University of Pune with an undergraduate degree in Information Technology.
+My passion lies in software security, software engineering, and programming languages, and I am eager to delve deeper into these areas as I advance my career.  
 
-I have profound interest in  Computers and Computer Science. My core domains involve Software and Web Development, Cloud Computing and Security. I am passionate about engineering robust, efficient and scalable solutions to real world problems using technology.
+I hold a Bachelor's degree in Information Technology from Pune Institute of Computer Technology, where I graduated with distinction. My academic journey has been fueled by a deep fascination with computers and software engineering, motivating me to continuously expand my knowledge and keep pace with the latest industry trends and innovations.  
+
+Currently, I am working on a software supply chain security project in the Wolfpack Security and Privacy Lab at NC State University focused on addressing critical challenges in software security. I also have a paper submitted to USENIX Sec '25 which focuses on risk based assessment of software credentials. I also have two years of professional experience working as a software developer and one year of academic experience.
+
+As I aim to become a research scientist specializing in security, I am actively seeking internship opportunities that align with my career goals and allow me to apply my skills to cutting-edge security challenges.
 
 <hr>
 
