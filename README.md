@@ -8,10 +8,6 @@
 
 <hr>
 
-Sure! Here's the rephrased version with the USENIX mention removed:
-
----
-
 I am an incoming PhD student in the Computer Science department at North Carolina State University, with a focus on security. I am currently completing my Master’s in Computer Science at NC State and expect to graduate in May 2025.
 
 My interests lie in software security, software engineering, and programming languages, and I’m excited to explore these areas further as I progress in my career.
