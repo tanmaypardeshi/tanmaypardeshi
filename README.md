@@ -8,15 +8,13 @@
 
 <hr>
 
-I am a PhD student in the Computer Science department at North Carolina State University, pursuing a specialization in software security. I finished my Master’s in Computer Science at North Carolina State University and I graduated in May 2025. 
+I am a PhD student in the Computer Science department at North Carolina State University, specializing in software security. I completed my Master’s in Computer Science at NC State in May 2025 and hold a Bachelor’s degree in Information Technology from Pune Institute of Computer Technology, where I graduated with distinction.
 
-My passion lies in software security, software engineering, and programming languages, and I am eager to delve deeper into these areas as I advance my career.  
+My passion lies in software security, software engineering, and programming languages, and my academic journey has been driven by a deep fascination with computers and a desire to continuously expand my knowledge while staying at the forefront of industry innovations.
 
-I hold a Bachelor's degree in Information Technology from Pune Institute of Computer Technology, where I graduated with distinction. My academic journey has been fueled by a deep fascination with computers and software engineering, motivating me to continuously expand my knowledge and keep pace with the latest industry trends and innovations.  
+Currently, I am conducting research in the Wolfpack Security and Privacy Lab under Dr. Laurie Williams, working on software supply chain security and risk-based assessment of software credentials (with a paper submitted to ICSE 2026). Alongside my research, I bring two years of professional experience as a software developer and one year of academic research experience.
 
-Currently, I am working on a software supply chain security project in the Wolfpack Security and Privacy Lab at NC State University focused on addressing critical challenges in software security. I also have a paper submitted which focuses on risk based assessment of software credentials. I have two years of professional experience working as a software developer and one year of academic experience.
-
-As I aim to become a research scientist specializing in security, I am actively seeking internship opportunities that align with my career goals and allow me to apply my skills to cutting-edge security challenges.
+Looking ahead, I aspire to become a research scientist specializing in security. I am actively seeking internship opportunities that will allow me to apply my expertise, engage with industry challenges, and further strengthen the security of software systems.
 
 <hr>
 
