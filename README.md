@@ -12,7 +12,7 @@ I am a PhD student in the Computer Science department at North Carolina State Un
 
 My passion lies in software security, software engineering, and programming languages, and my academic journey has been driven by a deep fascination with computers and a desire to continuously expand my knowledge while staying at the forefront of industry innovations.
 
-Currently, I am conducting research in the Wolfpack Security and Privacy Lab under Dr. Laurie Williams, working on software supply chain security and risk-based assessment of software credentials (with a paper submitted to ICSE 2026). Alongside my research, I bring two years of professional experience as a software developer and one year of academic research experience.
+Currently, I am conducting research in the Wolfpack Security and Privacy Lab under Dr. Laurie Williams, working on software supply chain security and risk-based assessment of software credentials. Alongside my research, I bring two years of professional experience as a software developer and one year of academic research experience.
 
 Looking ahead, I aspire to become a research scientist specializing in security. I am actively seeking internship opportunities that will allow me to apply my expertise, engage with industry challenges, and further strengthen the security of software systems.
 
