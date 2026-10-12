@@ -25,13 +25,13 @@ I started out as a software engineer and now do research, so I bring both profes
 I enjoy building software, from web platforms and APIs to developer tooling and my own dotfiles.
 
 <hr>
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats-fast)
 
-<img src="https://streak-stats.demolab.com/?user=tanmaypardeshi&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=tanmaypardeshi&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats-fast)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats)
 
 </div>
 
