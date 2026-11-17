@@ -29,8 +29,6 @@ I enjoy building software, from web platforms and APIs to developer tooling and 
 
 [![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats-fast)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=tanmaypardeshi&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats-fast)
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats)
 
 </div>
