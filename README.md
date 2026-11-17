@@ -28,7 +28,7 @@ I enjoy building software, from web platforms and APIs to developer tooling and 
 
 <div align="center">
   <a href="https://github.com/tanmaypardeshi/github-readme-stats-fast"><img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=tokyonight" alt="GitHub stats" /></a>
-  <a href="https://github.com/tanmaypardeshi/github-readme-stats"><img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight" alt="Top Langs" /></a>
+  <a href="https://github.com/tanmaypardeshi/github-readme-stats"><img height="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight" alt="Top Langs" /></a>
 </div>
 
 <hr>
