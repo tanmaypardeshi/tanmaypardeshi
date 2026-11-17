@@ -94,4 +94,4 @@ I enjoy building software, from web platforms and APIs to developer tooling and 
 
 <hr>
 
-<p align="right"><sub>Last updated: October 2026</sub></p>
+<p align="right"><sub>Last updated: November 2026</sub></p>
