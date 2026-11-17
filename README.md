@@ -11,7 +11,7 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:tanmaypardeshi@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmaypardeshi)
+[<img src="https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin-white&logoColor=fff" />](https://www.linkedin.com/in/tanmaypardeshi)
 [<img src="https://img.shields.io/badge/-tanmaypardeshi-1C2128?style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/tanmaypardeshi)
 
 </div>
@@ -25,12 +25,10 @@ I started out as a software engineer and now do research, so I bring both profes
 I enjoy building software, from web platforms and APIs to developer tooling and my own dotfiles.
 
 <hr>
+
 <div align="center">
-
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats-fast)
-
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight)](https://github.com/tanmaypardeshi/github-readme-stats)
-
+  <a href="https://github.com/tanmaypardeshi/github-readme-stats-fast"><img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=tanmaypardeshi&show_icons=true&theme=tokyonight" alt="GitHub stats" /></a>
+  <a href="https://github.com/tanmaypardeshi/github-readme-stats"><img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanmaypardeshi&theme=tokyonight" alt="Top Langs" /></a>
 </div>
 
 <hr>
